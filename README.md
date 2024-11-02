@@ -2,3 +2,4 @@ Implementation of different ML models from scratch with Python. We are not lever
 Please find the source code for below models : 
 - KNN
 - Linear Regression
+- Logistic Regression

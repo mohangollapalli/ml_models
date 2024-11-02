@@ -1,5 +1,5 @@
 
-import numpy as np 
+import numpy as np  # type: ignore
 
 def sigmoid(z): 
     return 1/(1+np.exp(-z))
